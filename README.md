@@ -1,2 +1,3 @@
-# f-polio
-portfolio website! 
+# fort polio-
+## my portfolio website! 
+built using vue.js
